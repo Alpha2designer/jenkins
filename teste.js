@@ -1,2 +1,1 @@
-console.log("Integração continua foi alterada");
-e
+console.log("Integração continua foi alterada")
